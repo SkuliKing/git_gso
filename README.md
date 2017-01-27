@@ -10,3 +10,5 @@ Gagnasafnskerfi er hugbúnaðarkerfi til að búa til og stjórna gagnagrunnum, 
 Færsla er ferlið að slá inn gögn í tölvutækt gagnasafn eða töflureikni. Gögn færslu er hægt að framkvæma með vél inn gögnin rafrænt.
 
 Skrá er skrá á tölvu sem geymir gögn, upplýsingar, stillingar eða skipanir notaðar með tölvuforriti.
+
+Skrársnið það eru margar mismunandi skráarsnið eins og það eru mismunandi forrit til að vinna skrár. Nokkrar af the fleiri sameiginlegur skráarsniðum eru:                                  (.doc) , (.htm or .html) , (.exe) , (.mp4) og (.jpg)
