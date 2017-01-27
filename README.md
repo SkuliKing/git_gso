@@ -1,1 +1,2 @@
-# git_gso
+Inngangur Ég ætla að tala um gagnasöfn, já þau stærstu, hvað gagn, gagnasafn og fleira er, hvaða gagnasöfn við notum daglega og margt fleira eins og hvernig við notum þau dags daglega.
+Flest gagnasöfn sem að við notum daglega eða þau sem að eru í hlutum sem að við notum, til dæmis bankinn og fésbókin (myndi samt ekki segja að fésbókin sé beint gagnasafn), ég nota bæði bankann og fésbókina rosalega mikið(kannski of mikið af fésbókinni).
