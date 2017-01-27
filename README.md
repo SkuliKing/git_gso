@@ -8,3 +8,5 @@ Gagnasafn er mikið magn af upplýsingum/gögnum sem að er búið að raða svo
 Gagnasafnskerfi er hugbúnaðarkerfi til að búa til og stjórna gagnagrunnum, kerfið veitir notendum og forritarar með kerfisbundnum hætti til að búa til, sækja, uppfæra og stjórna gögnum.
 
 Færsla er ferlið að slá inn gögn í tölvutækt gagnasafn eða töflureikni. Gögn færslu er hægt að framkvæma með vél inn gögnin rafrænt.
+
+Skrá er skrá á tölvu sem geymir gögn, upplýsingar, stillingar eða skipanir notaðar með tölvuforriti.
