@@ -12,3 +12,5 @@ Færsla er ferlið að slá inn gögn í tölvutækt gagnasafn eða töflureikni
 Skrá er skrá á tölvu sem geymir gögn, upplýsingar, stillingar eða skipanir notaðar með tölvuforriti.
 
 Skrársnið það eru margar mismunandi skráarsnið eins og það eru mismunandi forrit til að vinna skrár. Nokkrar af the fleiri sameiginlegur skráarsniðum eru:                                  (.doc) , (.htm or .html) , (.exe) , (.mp4) og (.jpg)
+
+Gildi er eitthvað sem er geymt í breytu, eða hlut. Gildið getur verið tölustafir eða tölustafi. Það getur einnig innihaldið sértákn eins dollaramerki ($). Gildi geta verið notuð fyrir marga tilganga, meðal þeirra reikna út stærðfræðilega formúlu, myndsköpun eða tónlist, eða bara til að sýna gildi á a vefur blaðsíða eða Word skjal.
